@@ -17,7 +17,7 @@ Statechart
     :target: http://www.gnu.org/licenses/lgpl-3.0-standalone.html
     :alt: License: LGPL-3
 .. |badge3| image:: https://img.shields.io/badge/github-acsone%2Fscobidoo-lightgray.png?logo=github
-    :target: https://github.com/acsone/scobidoo/tree/16.0/statechart
+    :target: https://github.com/acsone/scobidoo/tree/17.0/statechart
     :alt: acsone/scobidoo
 
 |badge1| |badge2| |badge3|
@@ -62,6 +62,6 @@ Authors
 Maintainers
 -----------
 
-This module is part of the `acsone/scobidoo <https://github.com/acsone/scobidoo/tree/16.0/statechart>`_ project on GitHub.
+This module is part of the `acsone/scobidoo <https://github.com/acsone/scobidoo/tree/17.0/statechart>`_ project on GitHub.
 
 You are welcome to contribute.
